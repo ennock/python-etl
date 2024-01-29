@@ -1,0 +1,30 @@
+2024-Jan-28-08:19:50 : Preliminaries complete. Initiating ETL process
+2024-Jan-28-08:19:54 : Data extraction complete. Initiating Transformation process
+2024-Jan-28-08:19:54 : Data transformation complete. Initiating loading process
+2024-Jan-28-08:23:53 : Preliminaries complete. Initiating ETL process
+2024-Jan-28-08:23:54 : Data extraction complete. Initiating Transformation process
+2024-Jan-28-08:23:54 : Data transformation complete. Initiating loading process
+2024-Jan-28-08:25:44 : Preliminaries complete. Initiating ETL process
+2024-Jan-28-08:25:48 : Data extraction complete. Initiating Transformation process
+2024-Jan-28-08:25:48 : Data transformation complete. Initiating loading process
+2024-Jan-28-08:31:30 : Preliminaries complete. Initiating ETL process
+2024-Jan-28-08:31:31 : Data extraction complete. Initiating Transformation process
+2024-Jan-28-08:31:31 : Data transformation complete. Initiating loading process
+2024-Jan-28-08:31:31 : Data saved to CSV file
+2024-Jan-28-08:31:31 : SQL Connection initiated.
+2024-Jan-28-08:31:31 : Data loaded to Database as table. Running the query
+2024-Jan-28-08:31:31 : Process Complete.
+2024-Jan-28-08:35:37 : Preliminaries complete. Initiating ETL process
+2024-Jan-28-08:35:38 : Data extraction complete. Initiating Transformation process
+2024-Jan-28-08:35:38 : Data transformation complete. Initiating loading process
+2024-Jan-28-08:35:38 : Data saved to CSV file
+2024-Jan-28-08:35:38 : SQL Connection initiated.
+2024-Jan-28-08:35:38 : Data loaded to Database as table. Running the query
+2024-Jan-28-08:35:38 : Process Complete.
+2024-Jan-28-08:39:44 : Preliminaries complete. Initiating ETL process
+2024-Jan-28-08:39:45 : Data extraction complete. Initiating Transformation process
+2024-Jan-28-08:39:45 : Data transformation complete. Initiating loading process
+2024-Jan-28-08:39:45 : Data saved to CSV file
+2024-Jan-28-08:39:45 : SQL Connection initiated.
+2024-Jan-28-08:39:45 : Data loaded to Database as table. Running the query
+2024-Jan-28-08:39:45 : Process Complete.
